@@ -1,0 +1,32 @@
+body{
+	background-image: url("https://i.pinimg.com/originals/ee/50/05/ee500584ad1e8597c6e34e902a708f4c.jpg");
+	background-size: cover;
+}
+div{
+	padding: 10px;
+	word-spacing: 30px;
+	font-size: 25px;
+}	
+a{
+	color: #5F5F5F;
+	text-decoration: none;
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: #FCE8E6;
+}
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 50%;
+}
+
+
+
+
